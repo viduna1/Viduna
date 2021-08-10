@@ -4,11 +4,11 @@ const got = require('got');
 const fs = require('fs');
 const axios = require('axios');
 const { errorMessage, infoMessage } = require('../helpers');
-const IG_DESC = "Downloads Image/Video From Instagram"
-const NEED_WORD = "Must Enter a link"
-const FBDESC = "Downloads Video From FaceBook"
-const LOADING = "Downloading the Video..."
-const NOT_FOUNDFB = "Video Not Found"
+const IG_DESC = "වීඩියව බාගත කිරීම"
+const NEED_WORD = "ලින්ක් එකක් යෙදිය යුතුමයි"
+const FBDESC = "මුහුණුපොතින් වීඩියෝව බාගතවෙමින් පවත්..."
+const LOADING = "බාගත වෙමින් පවති..."
+const NOT_FOUNDFB = "වීඩියෝව හමු වූයේ නැත"
 const CAPTION = "Caption"
 
 Asena.addCommand({ pattern: 'ig ?(.*)', fromMe: false, desc: IG_DESC}, async (message, match) => {
