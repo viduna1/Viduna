@@ -1,14 +1,14 @@
 {
-    "name": "WhatsAsenaDuplicated",
-    "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
+    "name": "White-Dragon",
+    "description": "White-Dragon project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "logo": "https://telegra.ph/file/df8f8f311214588c90cdb.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/farhan-dqz/JulieMwol",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "Dragon_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
@@ -17,7 +17,7 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
+            "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru,සිංහල සදහා si ලෙස යොදන්න",
             "required": true,
             "value": "en"
         },
