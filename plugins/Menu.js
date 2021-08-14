@@ -5,12 +5,12 @@ const axios = require('axios');
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'test', fromMe: false, desc: Lang.WP}, (async (message, match) => {
+Asena.addCommand({pattern: 'dragon', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
     var r_text = new Array ();
     
     
-    r_text[0] = "https://telegra.ph/file/24cacd9938446a38180fd.png";
+    r_text[0] = "https://telegra.ph/file/df8f8f311214588c90cdb.jpg";
     r_text[1] = "https://telegra.ph/file/24cacd9938446a38180fd.png";
     r_text[2] = "https://telegra.ph/file/24cacd9938446a38180fd.png";
     r_text[3] = "https://telegra.ph/file/24cacd9938446a38180fd.png";
@@ -25,8 +25,7 @@ Asena.addCommand({pattern: 'test', fromMe: false, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💮TEST💮━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Test🇱🇰 𝐛𝐨𝐭.
-╚═════════════test(.)
+●▬▬ 🐉📌*𝐖𝐇𝐈𝐓𝐄 𝐃𝐑𝐀𝐆𝐎𝐍 𝐏𝐔𝐁𝐋𝐈𝐂 𝐁𝐎𝐓*📌🐉 ▬▬●
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
@@ -326,7 +325,7 @@ Asena.addCommand({pattern: 'test', fromMe: false, desc: Lang.WP}, (async (messag
 ┇              *!txttoimg*
 ╚═══════════════════════════════
 
-═════💢RAVANA💢═════
+═════💢🐉White Dragon🐉💢═════
 ▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣▣
 
 `}) 
