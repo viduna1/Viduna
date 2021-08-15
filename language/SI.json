@@ -216,7 +216,7 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your bot is completely up-to-date!*",
+            "UPDATE": "*ඔබගෙ බොට් සම්පූර්ණයෙන්ම යාවත් කාලිනයි✅!*",
             "NEW_UPDATE": "*White Dragon Update Available*\n\n please ask support group before updating. Otherwise chance to get error\n\n Group link:- https://chat.whatsapp.com/BrWCGQZwLaO0D4El6Ne1O5\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..🐉```",
