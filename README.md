@@ -33,7 +33,7 @@ Project created by <a href="https://github.com/farhan-dqz">Viduna-Nethmira</a> t
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LM0lRMNUBaXA00FxEdSHqd)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BrWCGQZwLaO0D4El6Ne1O5)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
@@ -58,7 +58,7 @@ bash <(curl -L https://t.ly/tHxh)
 
 ### ⚠️ Warning! 
 ```
-💯 සාර්තකම Whatsapp Bot ඔබගේ වට්සැප් අකවුන්ට් එක තහනම් නොකෙරේ.
+කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
 CREATED BY VIDUNA NETHMIRA
 ```
 
