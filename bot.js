@@ -665,7 +665,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
 
                             if (config.LANG == 'TR' || config.LANG == 'AZ') {
                                 await conn.sendMessage(conn.user.jid, '*-- HATA RAPORU [White-Dragon] --*' + 
-                                    '\n*WhatsAsena bir hata gerçekleşti!*'+
+                                    '\n*White Dragon bir hata gerçekleşti!*'+
                                     '\n_Bu hata logunda numaranız veya karşı bir tarafın numarası olabilir. Lütfen buna dikkat edin!_' +
                                     '\n_Yardım için Telegram grubumuza yazabilirsiniz._' +
                                     '\n_Bu mesaj sizin numaranıza (kaydedilen mesajlar) gitmiş olmalıdır._' +
@@ -799,10 +799,10 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                             }
                             else {
                                 await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [White-Dragon🐉] --*' + 
-                                    '\n*JulieMwol an error has occurred!*'+
+                                    '\n*White Dragon an error has occurred!*'+
                                     '\n*This error log may include your number or the number of an opponent. Please be careful with it!*' +
                                     '\n*You can write to our Telegram group for help.*' +
-                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/IlmB0J0SilOIJRq1CLotXT' +
+                                    '\n*Aslo you can join our support group:* https://chat.whatsapp.com/BrWCGQZwLaO0D4El6Ne1O5' +
                                     '\n*This message should have gone to your number (saved messages).*\n\n' +
                                     '*Error:* ```' + error + '```\n\n'
                                     , MessageType.text, {detectLinks: false}
@@ -926,7 +926,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                 }
                                 else {
                                     return await conn.sendMessage(conn.user.jid, '*🙇🏻 Sorry, I Couldnt Read This Error! 🙇🏻*' +
-                                        '\n_You can write to our support group for more help._'
+                                        '\n_You can write to our support group for more help. group link :- https://chat.whatsapp.com/BrWCGQZwLaO0D4El6Ne1O5_'
                                         , MessageType.text
                                     );
                                 }    
