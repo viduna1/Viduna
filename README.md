@@ -62,13 +62,13 @@ bash <(curl -L https://t.ly/tHxh)
 CREATED BY VIDUNA NETHMIRA
 ```
 
-## Developers
+## Helpers
   <div align="center">
     
-  [![White-Dragon](https://telegra.ph/file/df8f8f311214588c90cdb.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![White-Dragon](https://telegra.ph/file/df8f8f311214588c90cdb.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[White-Dragon](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
-Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
+[White-Dragon](https://github.com/farhan-dqz)  | [Ravana](https://github.com/RAVANA-SL/slRavana) | [Unknown ](https://github.com/afnanplk)
+Base, owner | Help to create bot | unknown
   </div>
     
 
