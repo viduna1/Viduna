@@ -187,7 +187,7 @@
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
             "DOWNLOADING_SONG": "\n*සිංදුව සොයමින් පවති🔃🎶*\n",
-            "UPLOADING_SONG": "\n*හම්බවුනා☺ඔන්න දානවා*\n",
+            "UPLOADING_SONG": "\n*හම්බවුනා☺ඔන්න දානවා🔃*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading...```",
