@@ -11,18 +11,18 @@ Asena.addCommand({pattern: 'dragon', fromMe: false, desc: Lang.WP}, (async (mess
     
     
     r_text[0] = "https://telegra.ph/file/df8f8f311214588c90cdb.jpg";
-    r_text[1] = "https://telegra.ph/file/24cacd9938446a38180fd.png";
-    r_text[2] = "https://telegra.ph/file/24cacd9938446a38180fd.png";
-    r_text[3] = "https://telegra.ph/file/24cacd9938446a38180fd.png";
-    r_text[4] = "https://telegra.ph/file/24cacd9938446a38180fd.png";
-    r_text[5] = "https://telegra.ph/file/24cacd9938446a38180fd.png";
+    r_text[1] = "https://telegra.ph/file/df9e9a0e9a82bf3d3426f.jpg";
+    r_text[2] = "https://telegra.ph/file/11f5c96353c7dd31ba58a.jpg";
+    r_text[3] = "https://telegra.ph/file/544547eb5b5c0097551ae.jpg";
+    r_text[4] = "https://telegra.ph/file/df8f8f311214588c90cdb.jpg";
+    r_text[5] = "https://telegra.ph/file/df8f8f311214588c90cdb.jpg";
     
         
      var i = Math.floor(6*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💮TEST💮━━━━━⛦
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💮𝗪𝗵𝗶𝘁𝗲 𝗗𝗿𝗮𝗴𝗼𝗻🐉💮━━━━━⛦
 
 
 ●▬▬ 🐉📌*𝐖𝐇𝐈𝐓𝐄 𝐃𝐑𝐀𝐆𝐎𝐍 𝐏𝐔𝐁𝐋𝐈𝐂 𝐁𝐎𝐓*📌🐉 ▬▬●
@@ -139,7 +139,7 @@ Asena.addCommand({pattern: 'dragon', fromMe: false, desc: Lang.WP}, (async (mess
 💮𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ .attp <text>
 🍙𝙐𝙨𝙚➜ Text පෙළ දිලිසෙන ස්ටිකරයක් බවට පරිවර්තනය කරයි.
 ■□■□■□■□■□■□■□■□■□■□
-💢Logo  Commands💢
+💢Logo  Commands💢(මේවා වැරදි අලුත් වැඩියා කල යුතු බැවින් දැනට .txttoimg පාවච්චි කරන්න)
 
 💮𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ .txttiomg
 🍙𝙐𝙨𝙚➜ Logo ලාංඡන විධාන ලබා ගන්න
