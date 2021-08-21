@@ -5,9 +5,9 @@
     "AUTHOR": "AsenaDev",
     "STRINGS": {
         "_asena": {
-            "COMMAND": "🎯 𝗖𝗢𝗠𝗠𝗔𝗡𝗗",
-            "DESC": "🌀 𝗨𝗦𝗘 𝗧𝗢❯❯",
-        "EXAMPLE": "🔘 උදාහරණයක්",
+            "COMMAND": "𝗖𝗢𝗠𝗠𝗔𝗡𝗗",
+            "DESC": "𝗨𝗦𝗘 𝗧𝗢❯❯",
+        "EXAMPLE": "උදාහරණයක්",
             "NOT_FOUND": "*එසේ කමාන්ඩ් එකක් නොමැත*",
             "WARN": "𝗪𝗔𝗥𝗡"
         },
