@@ -34,13 +34,6 @@ else if (Config.WORKTYPE == 'public') {
     }));
     
 }
-const DRAGON= require('../events');
-const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
-const fs = require('fs');
-const axios = require('axios');
-const Config = require('../config');
-const need = "type some word after command\n🗡🗡"
-
 if (Config.WORKTYPE == 'private') {
 
     DRAGON.addCommand({ pattern: 'ahacking ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
