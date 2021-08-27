@@ -34,9 +34,6 @@ else if (Config.WORKTYPE == 'public') {
     }));
     
 }
-/* # Exclusively from White-dragon🐲 
-*/
-
 const DRAGON= require('../events');
 const { MessageType, MessageOptions, Mimetype } = require('@adiwajshing/baileys');
 const fs = require('fs');
