@@ -164,3 +164,159 @@ else if (Config.WORKTYPE == 'public') {
     }));
     
 }
+if (Config.WORKTYPE == 'private') {
+
+    DRAGON.addCommand({ pattern: 'asilk ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/silktext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+}
+
+else if (Config.WORKTYPE == 'public') {
+
+    DRAGON.addCommand({ pattern: 'asilk ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/silktext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+    
+}
+if (Config.WORKTYPE == 'private') {
+
+    DRAGON.addCommand({ pattern: 'afire ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/flametext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+}
+
+else if (Config.WORKTYPE == 'public') {
+
+    DRAGON.addCommand({ pattern: 'afire ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/flametext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+    
+}
+if (Config.WORKTYPE == 'private') {
+
+    DRAGON.addCommand({ pattern: 'aglow ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/glowtext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+}
+
+else if (Config.WORKTYPE == 'public') {
+
+    DRAGON.addCommand({ pattern: 'aglow ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/glowtext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+    
+}
+if (Config.WORKTYPE == 'private') {
+
+    DRAGON.addCommand({ pattern: 'asmoke ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/smoketext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+}
+
+else if (Config.WORKTYPE == 'public') {
+
+    DRAGON.addCommand({ pattern: 'asmoke ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/smoketext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+    
+}
+if (Config.WORKTYPE == 'private') {
+
+    DRAGON.addCommand({ pattern: 'apubg ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/pubglogo?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text1=&text2=White-Dragon{encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+}
+
+else if (Config.WORKTYPE == 'public') {
+
+    DRAGON.addCommand({ pattern: 'apubg ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/pubglogo?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text1=&text2=White-Dragon${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+    
+}
+if (Config.WORKTYPE == 'private') {
+
+    DRAGON.addCommand({ pattern: 'asky ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/skytext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+}
+
+else if (Config.WORKTYPE == 'public') {
+
+    DRAGON.addCommand({ pattern: 'asky ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+
+        if (match[1] === '') return await message.sendMessage(need);
+
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/skytext?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+
+        await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
+
+    }));
+    
+}
