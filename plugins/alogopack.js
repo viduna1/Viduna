@@ -62,7 +62,7 @@ else if (Config.WORKTYPE == 'public') {
 }
 if (Config.WORKTYPE == 'private') {
 
-    DRAGON.addCommand({ pattern: 'aglow ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
+    DRAGON.addCommand({ pattern: 'abwall ?(.*)', fromMe: true,dontAddCommandList: true }, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(need);
 
@@ -75,7 +75,7 @@ if (Config.WORKTYPE == 'private') {
 
 else if (Config.WORKTYPE == 'public') {
 
-    DRAGON.addCommand({ pattern: 'aglow ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+    DRAGON.addCommand({ pattern: 'abwall ?(.*)', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
 
         if (match[1] === '') return await message.sendMessage(need);
 
