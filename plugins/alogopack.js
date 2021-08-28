@@ -274,7 +274,7 @@ if (Config.WORKTYPE == 'private') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var ttinullimage = await axios.get(`https://api.zeks.me/api/pubglogo?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text1=&text2=White-Dragon{encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/pubglogo?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text1=&text2={encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
 
@@ -287,7 +287,7 @@ else if (Config.WORKTYPE == 'public') {
 
         if (match[1] === '') return await message.sendMessage(need);
 
-        var ttinullimage = await axios.get(`https://api.zeks.me/api/pubglogo?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text1=&text2=White-Dragon${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
+        var ttinullimage = await axios.get(`https://api.zeks.me/api/pubglogo?apikey=tCDLKkjNNYrq1ATlMS0r0xa2taO&text1=&text2=${encodeURIComponent(match[1])}`, { responseType: 'arraybuffer' })
 
         await message.sendMessage(Buffer.from(ttinullimage.data), MessageType.image, { mimetype: Mimetype.jpg, caption: "White-dragon🐲" })
 
