@@ -5,7 +5,7 @@ const axios = require('axios');
 const Language = require('../language');
 const Lang = Language.getString('wallpaper');
 
-Asena.addCommand({pattern: 'apack', fromMe: true, desc: Lang.WP}, (async (message, match) => {
+Asena.addCommand({pattern: 'apack', fromMe: false, desc: Lang.WP}, (async (message, match) => {
 
     var r_text = new Array ();
     
@@ -20,10 +20,10 @@ Asena.addCommand({pattern: 'apack', fromMe: true, desc: Lang.WP}, (async (messag
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━💮𝗪𝗵𝗶𝘁𝗲 𝗗𝗿𝗮𝗴𝗼𝗻🐉💮━━━━━⛦
 
 
-●▬▬ 🐉📌*𝐖𝐇𝐈𝐓𝐄 𝐃𝐑𝐀𝐆𝐎𝐍*📌🐉 ▬▬●
+●▬▬🐉📌*𝐖𝐇𝐈𝐓𝐄 𝐃𝐑𝐀𝐆𝐎𝐍*📌🐉▬▬●
 
 ■□■□■□■□■□■□■□■□■□■□
-♕ 𝘼 𝙥𝙖𝙘𝙠 ❮T͎o͎ C͎r͎e͎a͎t͎ L͎o͎g͎o͎❯ ♕
+♕ 𝘼 𝙥𝙖𝙘𝙠 ❮T͎o͎ C͎r͎e͎a͎t͎e͎ L͎o͎g͎o͎❯ ♕
 🐲🐲🐲🐲🐲🐲🐲🐲🐲🐲🐲🐲
 ★❯❯❯❯❯ .aneon Your Text
 ★❯❯❯❯❯ .ahacking Your Text
