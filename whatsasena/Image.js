@@ -21,7 +21,7 @@ class Image extends Base {
         this.id = data.key.id === undefined ? undefined : data.key.id;
         this.jid = data.key.remoteJid;
         this.fromMe = data.key.fromMe;
-        this.caption = data.message.imageMessage.caption === null ? data.message.imageMessage.caption : '*🇱🇰Created🐲By🐲White-Dragon🇱🇰*';
+        this.caption = data.message.imageMessage.caption === null ? data.message.imageMessage.caption : '';
         this.url = data.message.imageMessage.url;
         this.timestamp = typeof(data.messageTimestamp) === 'object' ? data.messageTimestamp.low : data.messageTimestamp;
         this.mimetype = data.message.imageMessage.mimetype;
@@ -66,4 +66,4 @@ class Image extends Base {
     }
 };
 
-module.exports = Image;
+module.exports = Image;⛔
