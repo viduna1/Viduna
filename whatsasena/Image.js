@@ -66,4 +66,4 @@ class Image extends Base {
     }
 };
 
-module.exports = Image;⛔
+module.exports = Image;
