@@ -908,7 +908,7 @@ if (Config.WORKTYPE == 'private') {
             .format('mp4')
             .save('slowmo.mp4')
             .on('end', async () => {
-                await message.sendMessage(fs.readFileSync('slowmo.mp4'), MessageType.video, {caption: 'True Slow-Motion by🐲White-Dragon🇱🇰);
+                await message.sendMessage(fs.readFileSync('slowmo.mp4'), MessageType.video, {caption: 'True Slow-Motion by🐲White-Dragon🇱🇰'});
             });
         return await message.client.deleteMessage(message.jid, {id: downloading.key.id, remoteJid: message.jid, fromMe: true})
     }));
