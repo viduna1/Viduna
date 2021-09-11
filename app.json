@@ -92,7 +92,7 @@
         },
         "WORK_TYPE": {
             "description": "WhatsAsena Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
-            "required": private,
+            "required": true,
             "value": "public"
         },
         "HEROKU_APP_NAME": {
