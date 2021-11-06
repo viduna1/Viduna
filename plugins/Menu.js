@@ -10,12 +10,12 @@ Asena.addCommand({pattern: 'alpha', fromMe: false, desc: Lang.WP}, (async (messa
     var r_text = new Array ();
     
     
-    r_text[0] = "https://telegra.ph/file/df8f8f311214588c90cdb.jpg";
-    r_text[1] = "https://telegra.ph/file/df9e9a0e9a82bf3d3426f.jpg";
-    r_text[2] = "https://telegra.ph/file/11f5c96353c7dd31ba58a.jpg";
-    r_text[3] = "https://telegra.ph/file/544547eb5b5c0097551ae.jpg";
-    r_text[4] = "https://telegra.ph/file/df8f8f311214588c90cdb.jpg";
-    r_text[5] = "https://telegra.ph/file/df8f8f311214588c90cdb.jpg";
+    r_text[0] = "https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg";
+    r_text[1] = "https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg";
+    r_text[2] = "https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg";
+    r_text[3] = "https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg";
+    r_text[4] = "https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg";
+    r_text[5] = "https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg";
     
         
      var i = Math.floor(6*Math.random())
