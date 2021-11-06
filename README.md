@@ -1,15 +1,14 @@
-
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/df8f8f311214588c90cdb.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/WHITE🐉DRAGON-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/ALPHA-NET-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥Viduna-Developer👉Isuru-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Owner💥Kushan-Owner👉Kushan/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">Viduna-Nethmira</a> to make it public
+Project created by <a href="https://wa.me/+94763526124">Viduna-Nethmira</a> to make it public
     <br>
        | © |
         Reserved |
@@ -17,7 +16,7 @@ Project created by <a href="https://github.com/farhan-dqz">Viduna-Nethmira</a> t
 </p>
 
 ----
-
+# [![Typing SVG](https://bit.ly/3GBaq2A)](https://github.com/TOXIC-DEVIL)
   <p align="center">
   <a href="httsp://github.com/farhan-dqz/JulieMwol">
     <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
@@ -46,7 +45,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/viduna1/Viduna)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/AlphaNetBot/Alpha-Net-Bot)
      </div>
 <br>
 <br >
@@ -65,7 +64,7 @@ CREATED BY VIDUNA NETHMIRA
 ## Helpers
   <div align="center">
     
-  [![White-Dragon](https://telegra.ph/file/df8f8f311214588c90cdb.jpg?size=100)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![White-Dragon](https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg)](https://telegra.ph/file/df8f8f311214588c90cdb.jpg) |  [![Ravana](https://github.com/Alien-alfa.png?size=100)](https://github.com/RAVANA-SL/slRavana) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [White-Dragon](https://github.com/farhan-dqz)  | [Ravana](https://github.com/RAVANA-SL/slRavana) | [Unknown ](https://github.com/afnanplk)
 Base, owner | Help to create bot | unknown
