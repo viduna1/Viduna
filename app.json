@@ -1,7 +1,7 @@
 {
-    "name": "White-Dragon",
-    "description": "White-Dragon project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://telegra.ph/file/df8f8f311214588c90cdb.jpg",
+    "name": "Alpha-Net-Bot",
+    "description": "Alpha-Net project created by Real Vidu and owner Kushan- Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "logo": "https://telegra.ph/file/6e802ef282a1aa26dc54e.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/farhan-dqz/JulieMwol",
     "website":   "https://t.me/phaticusthiccy",
@@ -111,7 +111,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.Alpha* ```for commands```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
