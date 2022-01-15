@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/442ab634cfb17533f2f40.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://telegra.ph/file/df8f8f311214588c90cdb.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="White" src="https://img.shields.io/badge/ALPHA-NET-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
